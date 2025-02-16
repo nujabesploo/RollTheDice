@@ -51,7 +51,7 @@ Here’s what the program looks like when running:
 ---
 
 ## 🏆 Credits  
-👨‍💻 Developed by **[Your Name]**  
+👨‍💻 Developed by **Bolutife Alli**  
 ☕ Powered by **Java**  
 
 ---
