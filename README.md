@@ -27,12 +27,11 @@ Here’s what the program looks like when running:
 
 ### 🎲 Rolling in Action  
 
-<img src="https://github.com/user-attachments/assets/0b28faec-fa5e-44b7-a217-727f67bf61f9" alt="Screenshot 2025-02-21 at 12:15:29 PM" width="450">
+<img src="https://github.com/user-attachments/assets/e45a67cf-3e57-43ff-9784-f3506129eb41" alt="Screenshot 2025-02-21 at 12:15:01 PM" width="450">
 
 ### 📊 Final Statistics Display  
 
-<img src="https://github.com/user-attachments/assets/e45a67cf-3e57-43ff-9784-f3506129eb41" alt="Screenshot 2025-02-21 at 12:15:01 PM" width="450">
-
+<img src="https://github.com/user-attachments/assets/0b28faec-fa5e-44b7-a217-727f67bf61f9" alt="Screenshot 2025-02-21 at 12:15:29 PM" width="450">
 
 ---
 
